@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Nikhil Prajapati</h1>
+<h1 align="center">I'm Nikhil Prajapati</h1>
 <h3 align="center">Mern stack developer</h3>
 
 <h3 align="left">Connect with me:</h3>
